@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @EKaterinaTR
-- 👀 I’m interested in java techologes and data mining
-- 🌱 I’m currently learning Spring and microservices in Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Katya.
+- 📫 To contact me use telegram: @katyatsr
 
 <!---
 EKaterinaTR/EKaterinaTR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
